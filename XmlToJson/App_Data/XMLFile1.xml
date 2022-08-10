@@ -1,0 +1,196 @@
+﻿
+<RepeaterData>
+	<Version />
+	<Items>
+		<Item>
+			<HazardTask type="System.String">Pre Field Trip - Key staff member/s organising the Field Trip exhibits COVID symptoms or is advised they are a close contact</HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Transmitting or catching COVID</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				• Staff member/s to take Rapid Antigen Test (RAT) on first day of trip just prior to departure.
+				• Staff members who are deemed a close contact will not be able to attend the Field Trip and must follow ACT Health directions.
+				• Staff member/s that test positive to COVID must notify UNSW Canberra via the UNSW Canberra COVID case online notification form
+				• Staff member/s should have a secondary plan in place for the running of the activity, such as the provision to appoint other staff members as replacements.
+				(Plan - Two staff are attending with six students)
+				• If either Warren Smith or David Lyons are unavailable, Prasanta Sahoo will substitute.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">1. Insignificant</RiskConsequence>
+			<RiskLikelihood type="System.String">E. Rare</RiskLikelihood>
+			<HazardRiskRating type="System.String">Low</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">Pre Field Trip -Clear understanding by all attendees of being COVID safe and following ACT and NSW health directions during the activity </HazardTask>
+			<HazardCategory type="System.String">48</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Transmitting or catching COVID</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				A set of COVID safe measures based on the latest ACT and NSW health direction will form the Activity COVID Protocol. All attendees will be informed of this prior to the Field Trip. The Protocol will likely include:
+				• Clear communication methods to attendees and ensure attendees are aware of any updates related to the Field Trip.
+				• Clear guidance for attendees to monitor if they have COVID symptoms prior to the activity. If attendees are unwell and have COVID symptoms on the day of the activity they must not attend.
+				• Requirement for attendees to take a Rapid Antigen Test on first day of trip just prior to departure.
+				• Requirement for mask wearing on transport through the entire field trip.
+				• Requirement for mask wearing indoors and in spaces where physical distancing is not possible.
+				• Physical distancing maintained on the transport where it is possible.
+				• Physical distancing, hand hygiene must be followed throughout the field trip.
+				• Compliance to ACT and NSW Health directives.
+				• Staff reserve the right to encourage attendees to return to the accommodation provided if they appear unwell and take a RAT. In some circumstances the attendee may be asked to isolate until they return a negative RAT.
+				• Must adhere to Activity COVID Protocol.
+				• Attendees in acknowledging RMF as Read accept that by attending the field trip, they agree to adhere to the Activity COVID Protocol.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String">
+				UNSW School of Engineering and IT | Covid-19 Protocols for ZEIT3750 Field Trip
+				To participate in SEIT Field Trip, all attendees must agree to follow the COVID-19 protocols as specified below:
+				• Attendees must comply with all ACT and NSW Health COVID-19 guidelines as advised by ACT and NSW Health.
+				• Attendees must monitor if they have COVID-19 symptoms prior to the Field Trip, and if unwell, and have COVID-19 symptoms on the day of the trip, they must not attend.
+				• Attendees are required to take a Rapid Antigen Test just prior to departure and must not attend if they return a positive test result.
+				• If an attendee is no longer attending, they are to advise the Transport Coordinator (Warren Smith) asap.
+				• Attendees are required to wear masks on all transport throughout the field trip.
+				• Attendees are required to wear masks in all indoor spaces or in places where physical distancing cannot be maintained.
+				• Physical distancing and hand hygiene must be followed throughout the field trip.
+				• If an attendee feels unwell and presents any COVID-19 symptoms during the field trip, they are to immediately place on a face mask, present to a designated staff member (Warren Smith) and isolate immediately from the group.
+				• An attendee feeling unwell is to wear a face mask until they have isolated, and hand sanitised.
+				• An attendee feeling unwell is to take a Rapid Antigen Test upon onset of symptoms. If symptoms persist after 24 hours, the attendee is to take another Rapid Antigen Test.
+				• If attendee tests positive whilst on the field trip, they must advise staff on location and if a Training Officer, the ADFA POC, of their positive test result and self-isolate in their accommodation until the end of the trip.
+				• Where a Training Officer attendee is too unwell to advise the ADFA POC, the staff on location will do this on their behalf.
+				• Close contacts of an infected attendee will be required to isolate as well in their accommodation. Staff will advise if you have been deemed a close contact.
+				• Staff reserve the right to encourage attendees to return to the accommodation provided if they appear unwell and take a RAT. In some circumstances the attendee may be asked to isolate until they return a negative RAT.
+				• Attendees to provide written acknowledgement prior to the activity that they will adhere to the activity COVID-19 protocol - “By attending the event, all attendees agree to adhere to the Activity COVID-19 Protocol”
+				• Attendees, including staff and students, to advise the organisers of the activity if they experience any COVID-19 symptoms up to 14 days following the conclusion of the activity, and the outcome of any COVID-19 test if the result is positive.
+				By attending this event I …………………………………………. agree to adhere to the activity protocols stated above.
+				Signature: ……………………………… Date: …………………
+			</HazardAdditionalControls>
+			<RiskConsequence type="System.String">2. Minor</RiskConsequence>
+			<RiskLikelihood type="System.String">D. Unlikely</RiskLikelihood>
+			<HazardRiskRating type="System.String">Low</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">During Field Trip - Attendees of the activity including Staff/Students/Visitor exhibit COVID symptoms</HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Transmitting or catching COVID</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				• If an attendee feels unwell and presents COVID symptoms during the field trip, they are to immediately place on a face mask, present to a designated staff member and isolate immediately from the group.
+				• Attendee feeling unwell to wear a face mask until they have isolated, and hand sanitised.
+				• Attendee is to take Rapid Antigen Test upon onset of symptoms.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">3. Moderate</RiskConsequence>
+			<RiskLikelihood type="System.String">E. Rare</RiskLikelihood>
+			<HazardRiskRating type="System.String">Medium</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">During Field Trip - Students attending the field trip test positive for COVID</HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Transmitting or catching COVID</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				• If attendee tests positive whilst on the field trip, they must self-isolate in the accommodation area directed by Staff.
+				• Attendee to advise staff on location and the ADFA POC of their positive test result.
+				• Where an attendee is too unwell to advise the ADFA POC, the staff on location will do this on their behalf.
+				• Attendee to be provided with meals organised by UNSW.
+				• ADFA will provide welfare checks for any TOs in isolation, including close contacts.
+				• Attendee to self-isolate until the end of the field trip.
+				• Close contacts of infected attendee will be required to isolate as well in a separate accommodation area to the positive case. A close contact for the purposes of the field trip is any attendee that has spent 4hrs consecutively with the attendee that tested positive to COVID.
+				• Hotel accommodation type will be single rooms for students, allowing for isolation if required.
+				• At the end of the field trip, ADFA will provide separate transportation to return to ADFA for any student COVID positive cases and any close contacts.
+				• The presence of a COVID positive case in the small field trip party, leading all to possibly being “close contacts” would likely lead to aborting any remaining activities and returning to Canberra ASAP to then isolate in Canberra. Note: positive staff/students will be transported separately to the rest of the ‘close’ contact group via the method outlined above – by ADFA if a student is positive.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">3. Moderate</RiskConsequence>
+			<RiskLikelihood type="System.String">D. Unlikely</RiskLikelihood>
+			<HazardRiskRating type="System.String">Medium</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">During Field Trip - Staff attending the field trip test positive for COVID</HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Transmitting or catching COVID </HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				• If a staff member tests positive whilst on the field trip, they must self-isolate in the accommodation area.
+				• Hotel accommodation type will be single rooms for staff to allow for isolation if required.
+				• Staff member to advise other staff on location and Head of School of their positive test result and report their positive test via the UNSW online form.
+				• Staff member to be provided with meals organised by UNSW.
+				• UNSW will provide welfare checks for any staff in isolation, including close contacts.
+				• Staff member to self-isolate until the end of the field trip.
+				• If a student is also a positive case, ADFA will provide separate transportation to return positive student(s) and positive staff to ADFA.
+				• Close contacts of infected attendee will be required to isolate as well in a separate accommodation area to the positive case. A close contact for the purposes of the field trip is any attendee that has spent 4hrs consecutively with the attendee that tested positive to COVID.
+				• If a student is also a close contact, ADFA will provide separate transportation to return student(s) and staff who are close contacts to ADFA.
+				• If staff only present as positive cases, the accommodation booking will be extended to allow the staff member to remain in isolation until they recover. UNSW will provide accommodation, food, and welfare checks and transport for their return to Canberra (flight or bus).
+				• The presence of a COVID positive case in the small field trip party, leading all to possibly being “close contacts” would likely lead to aborting any remaining activities and returning to Canberra ASAP to then isolate in Canberra.
+				Note: positive staff/students will be transported separately to the rest of the ‘close’ contact group via the method outlined above.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">3. Moderate</RiskConsequence>
+			<RiskLikelihood type="System.String">D. Unlikely</RiskLikelihood>
+			<HazardRiskRating type="System.String">Medium</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">During Field Trip - Changing of Covid restrictions</HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Risk of COVID transmission</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">The arising of tighter COVID restrictions would likely lead to aborting remaining activities and returning to Canberra ASAP.</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">2. Minor</RiskConsequence>
+			<RiskLikelihood type="System.String">E. Rare</RiskLikelihood>
+			<HazardRiskRating type="System.String">Low</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">During field trip - Catering not suitable or appropriate for COVID safe measures</HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Increased risk of transmission of COVID</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				• Meals will be taken at/ from establishments (restaurants, cafes, etc) exhibiting appropriate COVID-19 safety protocols.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">2. Minor</RiskConsequence>
+			<RiskLikelihood type="System.String">E. Rare</RiskLikelihood>
+			<HazardRiskRating type="System.String">Low</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">During field trip - Activities during field trip not all able to meet COVID safe requirements </HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Increased risk of COVID transmission</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				• Masks will be mandatory on transport throughout the field trip and in any areas where social distancing is not possible.
+				• Ensure appropriate and regular sanitisation measures are in place.
+				• Monitor physical distancing
+				• If the activity requires attendees to move in and out of the same venues (i.e. break for afternoon tea) request attendees return to the same seat.
+				• Hold activities (eg. meals) outdoors where possible.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">2. Minor</RiskConsequence>
+			<RiskLikelihood type="System.String">E. Rare</RiskLikelihood>
+			<HazardRiskRating type="System.String">Low</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+		<Item>
+			<HazardTask type="System.String">Post field trip - COVID-19 Close contact identified</HazardTask>
+			<HazardCategory type="System.String">46</HazardCategory>
+			<HazardAssociatedHarm type="System.String">Risk of COVID transmission</HazardAssociatedHarm>
+			<HazardExistingControls type="System.String">
+				• All attendees, including staff and students, to advise the organisers of the activity if they experience any COVID-19 symptoms up to 14 days following the conclusion of the activity, and the outcome of any COVID-19 test, if they test positive.
+				• If the individual is a staff or student, they follow ACT Health directives as required and must notify the UNSW Canberra via the UNSW Canberra COVID case online notification form
+				• Military students, in conjunction with the above, should follow the Defence notification protocol.
+				• Organisers to advise BURT of the possible close contact so any necessary next steps can be considered.
+			</HazardExistingControls>
+			<HazardAdditionalControls type="System.String"></HazardAdditionalControls>
+			<RiskConsequence type="System.String">2. Minor</RiskConsequence>
+			<RiskLikelihood type="System.String">D. Unlikely</RiskLikelihood>
+			<HazardRiskRating type="System.String">Low</HazardRiskRating>
+			<HazardCostControls type="System.String"></HazardCostControls>
+			<HazardReasonablePracticable type="System.String">Yes</HazardReasonablePracticable>
+		</Item>
+	</Items>
+</RepeaterData>
